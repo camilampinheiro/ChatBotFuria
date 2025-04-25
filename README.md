@@ -19,8 +19,6 @@ O site traz um visual moderno e escuro, inspirado na identidade do time, e utili
 - **Chatbase** – Plataforma usada para o chatbot inteligente
 - **JavaScript (embutido)** – Para carregar o bot
 
----
-
 ## Como Executar o Projeto
 
 1. Clone o repositório:
